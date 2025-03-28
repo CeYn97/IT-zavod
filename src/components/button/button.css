@@ -1,0 +1,12 @@
+.progress-button {
+  background-color: transparent;
+  padding: 0.5rem;
+}
+
+.button-selected {
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  user-select: none;
+  cursor: default;
+}
